@@ -17,7 +17,7 @@ This repository demonstrates a simple setup for testing Python code using Pytest
 ## Prerequisites
 Make sure you have Docker and Docker Compose installed on your system.
 
-* (Docker Installation Guide)[https://docs.docker.com/engine/install/]
+* (https://docs.docker.com/engine/install/)[Docker Installation Guide]
 
 ## Getting Started
 
