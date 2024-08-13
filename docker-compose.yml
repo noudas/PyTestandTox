@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  pytest-tox:
+    build: .
+    volumes:
+      - .:/app
+    command: tox
